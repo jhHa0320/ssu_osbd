@@ -2,3 +2,4 @@
 # AI융합학부 20243305 하정훈
 
 print("Hello World")
+print("changed")
